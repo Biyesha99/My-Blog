@@ -1,6 +1,4 @@
-# My-Blog
-
-# My Blog: Biyesha Jayathissa (https://medium.com/@biyeshajayathissa))
+# My Blog: Biyesha Jayathissa (https://medium.com/@biyeshajayathissa)
 
 This blog focuses on my journey in technology and personal growth. You can find insights on coding, industry trends, and life experiences.
 
