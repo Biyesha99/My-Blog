@@ -4,4 +4,5 @@ This blog focuses on my journey in technology and personal growth. You can find 
 
 **Latest Blog Posts:**
 - Why I Started This Blog (https://medium.com/@biyeshajayathissa/why-i-started-this-blog-6764437447c3)
+- Building a Minimalist ToDo Application with React.js (https://medium.com/@biyeshajayathissa/building-a-minimalist-todo-application-with-react-js-c8c77c3a9e51)
 
